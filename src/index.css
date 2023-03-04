@@ -69,17 +69,14 @@ nav > div {
   padding: 1em;
 }
 
-
 .products a {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-
-
 a {
-  color: gold;
+  color: green;
   text-shadow: 2px 2px 4px rgb(237, 238, 210);
   text-decoration: none;
 }
